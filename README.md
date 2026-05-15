@@ -1,16 +1,118 @@
-# React + Vite
+# MECHCABS 🚗🔧
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered roadside assistance platform that connects users with nearby verified mechanics during vehicle breakdowns. The application also provides instant cab and bike booking support using GPS and OTP verification for fast, secure, and reliable emergency assistance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 📌 Problem Statement
 
-## React Compiler
+Vehicle owners often face unexpected issues such as:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Vehicle breakdowns
+- Empty fuel tanks
+- Battery failures
+- Tire punctures
+- Engine malfunctions
 
-## Expanding the ESLint configuration
+During emergencies, finding a reliable mechanic nearby becomes difficult and time-consuming. Booking alternative transportation like cabs or bikes can also be challenging.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+MECHCABS solves these problems by providing a smart platform that offers:
+- Nearby mechanic discovery
+- OTP-verified repair assistance
+- Emergency cab and bike booking
+- Real-time support using GPS technology
+
+---
+
+# 🚀 Features
+
+- 🔍 Nearby mechanic search
+- 📍 GPS-based real-time location tracking
+- 🔐 OTP-verified mechanic assistance
+- 🚕 Emergency cab booking
+- 🏍 Bike ride booking support
+- 🛠 Workshop information access
+- 📱 User-friendly web application
+- ⚡ Quick and reliable emergency response
+- ☁ Cloud-based data management
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+- React.js
+- Vite
+- Vanilla CSS
+
+## Backend
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Realtime Database
+
+## APIs & Services
+- Google Maps API
+- GPS & Location Services
+- OTP Verification System
+
+## Design
+- Figma UI/UX Prototype
+
+---
+
+# ⚙️ System Workflow
+
+1. User faces a vehicle issue
+2. Application detects nearby mechanics using GPS
+3. User contacts a verified mechanic
+4. OTP verification ensures secure assistance
+5. User can book cab or bike services if needed
+6. User receives quick roadside support
+
+---
+
+# 📊 Feasibility and Viability
+
+MECHCABS can be efficiently developed using modern web technologies, GPS integration, and cloud services.
+
+## Advantages
+- Moderate development cost
+- High demand among vehicle owners
+- Scalable business model
+- Revenue opportunities through partnerships and service charges
+- Improves road safety and emergency support
+
+---
+
+# 🌍 Impact and Benefits
+
+- Reduces stress during roadside emergencies
+- Provides fast and reliable support
+- Enhances driver safety
+- Useful for daily commuters and fleet operators
+- Connects users with verified mechanics
+- Offers immediate alternative transportation
+
+---
+
+# 📱 Future Enhancements
+
+- AI-based vehicle issue prediction
+- Live mechanic tracking
+- Voice assistant integration
+- Multi-language support
+- In-app payment gateway
+- EV charging station support
+- Emergency SOS feature
+
+---
+
+# 📄 License
+
+This project is developed for academic and educational purposes.
+
+---
+
+# ⭐ Conclusion
+
+MECHCABS is a smart and reliable emergency roadside assistance platform designed to help vehicle owners during critical situations. By combining mechanic support and transportation services into a single application, the platform improves safety, convenience, and emergency response efficiency.
