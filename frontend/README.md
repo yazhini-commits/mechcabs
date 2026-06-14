@@ -1,6 +1,6 @@
 # MECHCABS 🚗🔧
 
-An AI-powered roadside assistance platform that connects users with nearby verified mechanics during vehicle breakdowns. The application also provides instant cab and bike booking support using GPS and OTP verification for fast, secure, and reliable emergency assistance.
+MECHCABS is a Java Full Stack-based roadside assistance platform that connects users with nearby verified mechanics during vehicle breakdowns. The application provides real-time location tracking, OTP-based verification, workshop information, and emergency cab or bike booking services, ensuring fast, secure, and reliable roadside support.
 
 ---
 
@@ -17,6 +17,7 @@ Vehicle owners often face unexpected issues such as:
 During emergencies, finding a reliable mechanic nearby becomes difficult and time-consuming. Booking alternative transportation like cabs or bikes can also be challenging.
 
 MECHCABS solves these problems by providing a smart platform that offers:
+
 - Nearby mechanic discovery
 - OTP-verified repair assistance
 - Emergency cab and bike booking
@@ -32,7 +33,7 @@ MECHCABS solves these problems by providing a smart platform that offers:
 - 🚕 Emergency cab booking
 - 🏍 Bike ride booking support
 - 🛠 Workshop information access
-- 📱 User-friendly web application
+- 📱 Responsive Java Full Stack web application
 - ⚡ Quick and reliable emergency response
 - ☁ Cloud-based data management
 
@@ -41,22 +42,36 @@ MECHCABS solves these problems by providing a smart platform that offers:
 # 🛠 Tech Stack
 
 ## Frontend
-- React.js
-- Vite
-- Vanilla CSS
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
 ## Backend
-- Firebase Authentication
-- Firebase Firestore
-- Firebase Realtime Database
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+
+## Database
+
+- MySQL
 
 ## APIs & Services
-- Google Maps API
-- GPS & Location Services
-- OTP Verification System
 
-## Design
-- Figma UI/UX Prototype
+- Google Maps API
+- GPS Location Services
+- OTP Authentication Service
+
+## Tools & Platforms
+
+- Eclipse / IntelliJ IDEA
+- Apache Maven
+- Git & GitHub
+- Postman
+- Figma
 
 ---
 
@@ -73,9 +88,10 @@ MECHCABS solves these problems by providing a smart platform that offers:
 
 # 📊 Feasibility and Viability
 
-MECHCABS can be efficiently developed using modern web technologies, GPS integration, and cloud services.
+MECHCABS can be efficiently developed using Java Full Stack technologies, GPS integration, cloud services, and secure authentication systems.
 
 ## Advantages
+
 - Moderate development cost
 - High demand among vehicle owners
 - Scalable business model
