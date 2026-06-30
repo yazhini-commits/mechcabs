@@ -48,12 +48,44 @@ MECHCABS solves these problems by providing a smart platform that offers:
 - JavaScript
 - Bootstrap
 
-## Backend
+## Backend Setup
 
-- Java
+### Prerequisites
+
+- Java JDK 17+
+- Apache Maven
+- MySQL Server
+- Git
+- VS Code
+
+### Technologies
+
 - Spring Boot
 - Spring MVC
 - Spring Security
+- Spring Data JPA
+- MySQL
+- Thymeleaf
+- Bootstrap 5
+
+### Database
+
+```sql
+CREATE DATABASE mechcabs;
+```
+
+### Run Backend
+
+```bash
+cd backend
+mvn spring-boot:run
+```
+
+Server:
+
+```
+http://localhost:9090
+```
 
 ## Database
 
